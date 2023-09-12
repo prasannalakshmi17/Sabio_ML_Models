@@ -14,3 +14,4 @@ A simple Python program that extracts text from an image file and saves it in cs
 * Open the solution in Visual Studio and run Install-Package Tesseract -Version 3.0.2
 
 
+![image](https://github.com/prasannalakshmi17/Sabio_ML_Models/assets/142021993/41bd622b-3afa-47a5-83a7-ab4004d8fa2b)
