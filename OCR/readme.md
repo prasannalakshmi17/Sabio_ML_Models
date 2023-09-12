@@ -7,7 +7,8 @@ It is a technology that converts images of text into machine-readable text. This
 A simple Python program that extracts text from an image file and saves it in csv files.
 
 **Prerequisites**
-* Install visual studio
+* Install visual studio.
+  
 **Installation**
 * Clone or download this repository.
 * Open the solution in Visual Studio and run Install-Package Tesseract -Version 3.0.2
